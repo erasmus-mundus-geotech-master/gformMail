@@ -7,7 +7,7 @@ Even though there are some plugins, the cost for using them are not considered i
 The script implements 2 files: .gs (Google Script) and HTML (Template)
 
 ## Google Script
-Form Spreedsheet data recovered and implemented to show to the user.
+Form Spreedsheet data recovered and implemented in the HTML to fill the notification inputs: this section in the template is *Registration details*
 
 ## Template
 HTML editior will be needed. A first template can be found.
